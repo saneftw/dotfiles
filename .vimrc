@@ -1,6 +1,5 @@
 syntax on
-
-set noerrorbells
-set nowrap
+set number
 set ai
-set colorcolumn=80
+highlight Comment ctermfg=red
+set mouse=a
