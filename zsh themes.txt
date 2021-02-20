@@ -1,7 +1,0 @@
-ZSH_THEME=candy
-ZSH_THEME=awesomepanda
-ZSH_THEME=amuse
-ZSH_THEME=clean
-ZSH_THEME=cloud
-ZSH_THEME=crunch
-ZSH_THEME=imajes
